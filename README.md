@@ -9,4 +9,4 @@ This keylogger has a GUI to start and stop its functioning.
 
 2."logs.json" contains the keystrokes used by the target
 
-3. Rest file are for the encryption purpose, which I didn't used in this project
+3. Rest file are for the encryption purpose, which I didn't used in advanced this particular keylogger project 
